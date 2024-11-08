@@ -1,0 +1,16 @@
+{
+  "name": "persistor",
+  "cloudcode": {
+    "runtime": "1.13.0",
+    "enabled": true
+  },
+  "scripts": {
+    "build": "cloudcode-build"
+  },
+  "dependencies": {
+    "@journeyapps/cloudcode": "1.13.0"
+  },
+  "devDependencies": {
+    "@journeyapps/cloudcode-build": "1.13.0"
+  }
+}

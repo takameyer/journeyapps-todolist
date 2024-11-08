@@ -1,0 +1,3 @@
+{
+  "extends": "@journeyapps/cloudcode-build/task-tsconfig"
+}
